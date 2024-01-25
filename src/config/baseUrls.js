@@ -1,0 +1,1 @@
+export const BASE_URLS = 'https://unusual-beanie-ray.cyclic.app/user'
